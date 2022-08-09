@@ -1,0 +1,2 @@
+# Hand_written_digits_recognition
+I have used a neural network to recognize the hand-written digits. First I build a neural network in a popular machine learning framework - Tensorflow. I used the model to do image recognition on a portion of the famous MNIST data set, then have explained what is 'under the hood' of these frameworks by implementing the forward path of the same network in NumPy in my own mini-framework.
